@@ -1,0 +1,12 @@
+# MacOS-Systemdateien
+.DS_Store
+
+
+# Python-Zwischenprodukte
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Virtuelle Umgebung
+.venv/
